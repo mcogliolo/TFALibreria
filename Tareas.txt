@@ -1,0 +1,4 @@
+1 - Agregar los navegadores IE y ChromeDriver al classpath
+2 - LIMPIAR EL CODIGO MUGRIENTO
+3 - Generar el .exe FINAL
+4 - Comenzar la libreria
